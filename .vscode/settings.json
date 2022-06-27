@@ -1,0 +1,11 @@
+{
+    "editor.rulers": [
+    
+    ],
+    "[solidity]": {
+        "editor.formatOnType": true,
+        "editor.formatOnPaste": true,
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
